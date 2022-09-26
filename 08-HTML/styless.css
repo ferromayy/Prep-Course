@@ -1,0 +1,42 @@
+           
+
+           body{
+            background: lightgray;
+            width: 100%;
+           }
+          
+           .tituloo{
+            text-align: center;
+            margin: 10px;
+            border: 1px black;
+
+
+
+           }
+
+           h1 { 
+       	  	color: darkblue;
+       	  }
+          h2{
+            color: darkblue;
+            
+          }
+       	  img { 
+          	width: 300px;
+
+       	  }
+       	  #content{ 
+            float: left;
+            width:  80%; 
+            background-color: lightskyblue;
+           min-height: 800px;
+       	  	
+       	  }
+          .thirdDiv {
+            float:left;
+            width: 20%;
+            background-color: lightblue;
+            min-height: 800px;
+            
+
+          }
